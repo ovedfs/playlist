@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "Mr. Brightside",
+    "video": "https://www.youtube.com/embed/gGdGFtwCNBE?si=5B_Ru8nnt2phDjNe",
+    "artista": "The Killers",
+    "letra": "Now I'm falling asleep, and she's calling a cab..."
+  },
+  {
+    "titulo": "Everlong",
+    "video": "https://www.youtube.com/embed/eBG7P-K-r1Y?si=pTiEXh2gk5oT0her",
+    "artista": "Foo Fighters",
+    "letra": "Hello, I've waited here for you, everlong..."
+  },
+  {
+    "titulo": "Scar Tissue",
+    "video": "https://www.youtube.com/embed/mzJj5-lubeM?si=kQRYN5S7XYBUcwBl",
+    "artista": "Red Hot Chili Peppers",
+    "letra": "With the birds, I'll share this lonely view..."
+  },
+  {
+    "titulo": "I Will Follow You into the Dark",
+    "video": "https://www.youtube.com/embed/3iV_1ESMHaI?si=EHy3GSEVGRzPBCb5",
+    "artista": "Death Cab for Cutie",
+    "letra": "Love of mine, some day you will die..."
+  },
+  {
+    "titulo": "Yellow",
+    "video": "https://www.youtube.com/embed/yKNxeF4KMsY?si=vq_LEclhAjSdwWau",
+    "artista": "Coldplay",
+    "letra": "Look at the stars, look how they shine for you..."
+  }
+]
